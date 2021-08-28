@@ -4,8 +4,8 @@
 #
 # Date: 28 August 2021 20:05:14 (EEST)
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
+# Fetch the latest version of this file: https://raw.githubusercontent.com/Acsigen/pihole-rolist/main/hosts
+# Project home page: https://github.com/Acsigen/pihole-rolist
 
 0.0.0.0 01.creativecdn.com
 0.0.0.0 2mdn.net
