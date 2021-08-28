@@ -1,3 +1,12 @@
+# Title: Acsigen/pihole-rolist
+#
+# This hosts file is a merged collection of hosts from zoso.ro and adblock.ro uBlock lists
+#
+# Date: 28 August 2021 20:05:14 (EEST)
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+
 0.0.0.0 01.creativecdn.com
 0.0.0.0 2mdn.net
 0.0.0.0 7w.ro
