@@ -7,361 +7,719 @@
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Acsigen/pihole-rolist/main/hosts
 # Project home page: https://github.com/Acsigen/pihole-rolist
 
-0.0.0.0 01.creativecdn.com
-0.0.0.0 ad.dc2.adtech.de
-0.0.0.0 ad2.ip.ro
-0.0.0.0 adnxs.com
-0.0.0.0 ads2.evz.ro
-0.0.0.0 adservice.google.ro
-0.0.0.0 adsymptotic.com
-0.0.0.0 advertising.oriel.io
-0.0.0.0 ak.sail-horizon.com
-0.0.0.0 akamai.smartadserver.com
-0.0.0.0 app.marketizator.com
-0.0.0.0 apps.thinkdigital.ro
-0.0.0.0 bat.bing.com
-0.0.0.0 bbcdn.ad2.ip.ro
-0.0.0.0 bbcdn.go.adevolution.bbelements.com
-0.0.0.0 bbcdn.go.cz.bbelements.com
-0.0.0.0 beacon.s-onetag.com
-0.0.0.0 bidder.criteo.com
-0.0.0.0 bidswitch.net
-0.0.0.0 block.sw1block.com
-0.0.0.0 bride.ru
-0.0.0.0 cdn.omniconvert.com
-0.0.0.0 cdn.onesignal.com
-0.0.0.0 cdn.raygun.io
-0.0.0.0 cdn.sendpulse.com
-0.0.0.0 cdn.taboola.com
-0.0.0.0 cdn.teads.tv
-0.0.0.0 cdnprojectagora.s3.amazonaws.com
-0.0.0.0 code3.adtlgc.com
-0.0.0.0 content.ad20.net
-0.0.0.0 content.adunity.com
-0.0.0.0 content.zontera.com
-0.0.0.0 core.ad20.net
-0.0.0.0 core.adservingfactory.com
-0.0.0.0 cotatii.tradeville.eu
-0.0.0.0 ctx.inin.ro
-0.0.0.0 da.feedsportal.com
-0.0.0.0 data.tradeville.eu
-0.0.0.0 digital4ro.adocean.pl
-0.0.0.0 engageya.com
-0.0.0.0 etop.ro
-0.0.0.0 evensys.ro$third-party
-0.0.0.0 ewatch.ro
-0.0.0.0 eyeviewads.com
-0.0.0.0 farm-ro.plista.com
-0.0.0.0 feedads.g.doubleclick.net
-0.0.0.0 files.upscore.com
-0.0.0.0 fx.gtop.ro
-0.0.0.0 get.s-onetag.com
-0.0.0.0 go.netbet.ro
-0.0.0.0 hit-pool.upscore.com
-0.0.0.0 ib.adnxs.com
-0.0.0.0 icorpadro.hit.gemius.pl
-0.0.0.0 ips-invite.iperceptions.com
-0.0.0.0 js-agent.newrelic.com
-0.0.0.0 linkweb.ro
-0.0.0.0 match.adsrvr.org
-0.0.0.0 match.taboola.com
-0.0.0.0 media.leftclick.ro
-0.0.0.0 moatads.com
-0.0.0.0 onlinesupaads.com
-0.0.0.0 p.brid.tv
-0.0.0.0 pagefair.com
-0.0.0.0 parsely.com
-0.0.0.0 pixel.mathtag.com
-0.0.0.0 prod.webpu.sh
-0.0.0.0 projectagoralibs.com
-0.0.0.0 projectagoratech.com
-0.0.0.0 psd.marketing
-0.0.0.0 realitatero.adocean.pl
-0.0.0.0 recs.engageya.com
-0.0.0.0 retargeting-data.eu
-0.0.0.0 revsci.net
-0.0.0.0 ro.adocean.pl
-0.0.0.0 ro.noprimetime.com
-0.0.0.0 ro.search.etargetnet.com
-0.0.0.0 rt.awstaticdn.net
-0.0.0.0 s.vi-serve.com
-0.0.0.0 sb.scorecardresearch.com
-0.0.0.0 scomcluster.cxense.com
-0.0.0.0 serving-sys.com
-0.0.0.0 smartadserver.com
-0.0.0.0 static.chartbeat.com
-0.0.0.0 static.criteo.net
-0.0.0.0 st-n.ads1-adnow.com
-0.0.0.0 st-n.pc1ads.com
-0.0.0.0 sync.teads.tv
-0.0.0.0 t00t2.com
-0.0.0.0 tags.bkrtx.com
-0.0.0.0 tags.crwdcntrl.net
-0.0.0.0 tinypass.com
-0.0.0.0 u.heatmap.it
-0.0.0.0 worldgravity.com
-0.0.0.0 zontera.com
-0.0.0.0 zopim.com
-0.0.0.0 squeakzinc.com
-0.0.0.0 polyfill.io
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 paydemic.com
-0.0.0.0 coin-hive.com
-0.0.0.0 coinhive.com
-0.0.0.0 jsecoin.com
-0.0.0.0 reasedoper.pw
-0.0.0.0 mataharirama.xyz
-0.0.0.0 listat.biz
-0.0.0.0 lmodr.biz
-0.0.0.0 minecrunch.co
-0.0.0.0 2mdn.net
-0.0.0.0 7w.ro
-0.0.0.0 ado.icorp.ro
-0.0.0.0 adunity.com
-0.0.0.0 brand.ad
-0.0.0.0 gemius.pl
-0.0.0.0 omniconvert.com
-0.0.0.0 statcounter.com
-0.0.0.0 storage.icorp.ro
-0.0.0.0 taboola.com
-0.0.0.0 zm232.com
-0.0.0.0 adtlgc.com
-0.0.0.0 cxense.com
-0.0.0.0 criteo.net
-0.0.0.0 tynt.com
-0.0.0.0 crwdcntrl.net
-0.0.0.0 criteo.com
-0.0.0.0 doubleclick.net
-0.0.0.0 noadblock.org
-0.0.0.0 i401xox.com
-0.0.0.0 ads1-adnow.com
-0.0.0.0 ads2-adnow.com
-0.0.0.0 ads3-adnow.com
-0.0.0.0 tesseradigital.com
-0.0.0.0 qds.ninja
-0.0.0.0 xzipy.com
-0.0.0.0 2parale.ro
-0.0.0.0 2performant.com
-0.0.0.0 adexc.net
-0.0.0.0 admonitoring.bsgroup.ro
-0.0.0.0 adocean.pl
-0.0.0.0 ads.gadget.ro
-0.0.0.0 ads.tradeads.eu
-0.0.0.0 adservingfactory.com
-0.0.0.0 amazonaws.com
-0.0.0.0 bannersnack.com
-0.0.0.0 brat-online.ro
-0.0.0.0 chargeplatform.com
-0.0.0.0 evensys.ro
-0.0.0.0 flx1.com
-0.0.0.0 gravityrd-services.com
-0.0.0.0 megapopads.com
-0.0.0.0 new.cetrk.com
-0.0.0.0 profiling.avandor.com
-0.0.0.0 profiling1.avandor.com
-0.0.0.0 projectagora.s3.amazonaws.com
-0.0.0.0 s.atemda.com
-0.0.0.0 secure.trafic.ro
-0.0.0.0 st.ad.adnow.com
-0.0.0.0 storage.trafic.ro
-0.0.0.0 track.atom-data.io
-0.0.0.0 www4.smartadserver.com
-0.0.0.0 pwa.grgs.ro
-0.0.0.0 retargeting.biz
-0.0.0.0 hotjar.com
-0.0.0.0 awstaticdn.net
-0.0.0.0 cloudfront.net
-0.0.0.0 contestapp.a1.ro
-0.0.0.0 creativcdn.net
-0.0.0.0 kreativcdn.net
-0.0.0.0 magazinuldecase.ro
-0.0.0.0 3x.ro
-0.0.0.0 abrtn.pro
-0.0.0.0 activ-forte.com
-0.0.0.0 apps-web-store.net
-0.0.0.0 areafile.ro
-0.0.0.0 babyneeds.ro
-0.0.0.0 beautyandstylezone.com
-0.0.0.0 boilerinstant-ro.com
-0.0.0.0 branturi-slabit.ro
-0.0.0.0 camerawifi-ro.com
-0.0.0.0 campaignsender.ro
-0.0.0.0 certificateiso.ro
-0.0.0.0 cesiune.ro
-0.0.0.0 contemposhop.eu
-0.0.0.0 converse-all-star.ro
-0.0.0.0 converse-allstar.ro
-0.0.0.0 cremaminune.ro
-0.0.0.0 dolliholli.com
-0.0.0.0 dvdlovers.org
-0.0.0.0 ecobricolaj.ro
-0.0.0.0 enjoyyourmoves.com
-0.0.0.0 evrida.ro
-0.0.0.0 excellentfigure.com
-0.0.0.0 fashiontribes.ro
-0.0.0.0 fierastraieculant-ro.com
-0.0.0.0 foartetare.eu
-0.0.0.0 for-men-ultimate.com
-0.0.0.0 fstreet.eu
-0.0.0.0 fungushelparticle.com
-0.0.0.0 goagle.ro
-0.0.0.0 gogole.ro
-0.0.0.0 great4mylife.com
-0.0.0.0 groupoff.ro
-0.0.0.0 hemorrhoconsultation.com
-0.0.0.0 hi2.ro
-0.0.0.0 home-boutiqe.ro
-0.0.0.0 hostyfy.com
-0.0.0.0 hotelmercurminerva.ro
-0.0.0.0 iareduceri.eu
-0.0.0.0 idey.ro
-0.0.0.0 idunne.com
-0.0.0.0 indeeway.ro
-0.0.0.0 infolosultau.eu
-0.0.0.0 isp4free.info
-0.0.0.0 izzyreduceri.ro
-0.0.0.0 jocuricorporate.com
-0.0.0.0 justfitartstudio.ro
-0.0.0.0 kidstep.ro
-0.0.0.0 koseyagroup.com
-0.0.0.0 last-torrents.org
-0.0.0.0 lastfile.ro
-0.0.0.0 lastfiles.net
-0.0.0.0 lenjerii.org
-0.0.0.0 lenjeriipat-outlet.ro
-0.0.0.0 libertatea.info
-0.0.0.0 lipo53.ro
-0.0.0.0 magazinuldereduceri.eu
-0.0.0.0 mailagent.ro
-0.0.0.0 mareea.ro
-0.0.0.0 melimeloparis.ro
-0.0.0.0 menprotect.com
-0.0.0.0 merinodream-ro.com
-0.0.0.0 mesterproduse.eu
-0.0.0.0 modlet.ro
-0.0.0.0 myhealthyblog.co
-0.0.0.0 myhealthyblog.info
-0.0.0.0 nevergrey-ro.com
-0.0.0.0 new-b.ro
-0.0.0.0 ofertedevis.eu
-0.0.0.0 optimashop.ro
-0.0.0.0 outlet-rayban.ro
-0.0.0.0 panipromo.com
-0.0.0.0 parfumul.net
-0.0.0.0 peicipecolo.eu
-0.0.0.0 pentalog.ro
-0.0.0.0 presamedicala.com
-0.0.0.0 propantofi.eu
-0.0.0.0 racirecuceata-ro.com
-0.0.0.0 rbromania.com
-0.0.0.0 relatiidiscrete.ro
-0.0.0.0 roboutiqe.eu
-0.0.0.0 s77.ro
-0.0.0.0 sacividat.ro
-0.0.0.0 sanatatesifericire.eu
-0.0.0.0 scenefz.me
-0.0.0.0 scenefz.net
-0.0.0.0 seedfile.ro
-0.0.0.0 shoppingnewsletters.com
-0.0.0.0 silcosrl.eu
-0.0.0.0 silueta-perfecta.ro
-0.0.0.0 smdela.com
-0.0.0.0 softopt.eu
-0.0.0.0 spshop.eu
-0.0.0.0 stereomag.ro
-0.0.0.0 teleprod.eu
-0.0.0.0 thefile.ro
-0.0.0.0 tipsforhealthylegs.com
-0.0.0.0 torrentbits.net
-0.0.0.0 torrentsfile.com
-0.0.0.0 treburilecasei.eu
-0.0.0.0 trendymag.eu
-0.0.0.0 trimiteemail.info
-0.0.0.0 uiassan.com
-0.0.0.0 vacante2015.com
-0.0.0.0 vacante2016.eu
-0.0.0.0 vacantelastminute.info
-0.0.0.0 vendiup.com
-0.0.0.0 williams-sonona.com
-0.0.0.0 aflasitu.ro
-0.0.0.0 bursadecontabilitate.ro
-0.0.0.0 caplimpede.ro
-0.0.0.0 cocoon.ro
-0.0.0.0 criterii.ro
-0.0.0.0 cunoastelumea.ro
-0.0.0.0 cyd.ro
-0.0.0.0 dailynewsro.com
-0.0.0.0 danfil-jobs.com
-0.0.0.0 descrieri.ro
-0.0.0.0 dzr.org.ro
-0.0.0.0 efemeride.ro
-0.0.0.0 eufrosin.wordpress.com
-0.0.0.0 expunere.com
-0.0.0.0 fluierul.ro
-0.0.0.0 flux24.ro
-0.0.0.0 gandeste.org
-0.0.0.0 gramacontabilitate.ro
-0.0.0.0 impactpress.ro
-0.0.0.0 incorect.org
-0.0.0.0 infoAlert.ro
-0.0.0.0 lovendal.ro
-0.0.0.0 lupuldacicblogg.wordpress.com
-0.0.0.0 napocanews.ro
-0.0.0.0 nasul.ro
-0.0.0.0 nationalisti.ro
-0.0.0.0 nedreptate.net
-0.0.0.0 nuv.ro
-0.0.0.0 obiectiv.info
-0.0.0.0 odofresh.com
-0.0.0.0 oliviasteer.ro
-0.0.0.0 onlinereport.ro
-0.0.0.0 promarketmail.com
-0.0.0.0 recentnews.ro
-0.0.0.0 reporteronline.net
-0.0.0.0 ro.blastingnews.com
-0.0.0.0 searchnewsglobal.wordpress.com
-0.0.0.0 secretele.com
-0.0.0.0 social-media-romania.eu
-0.0.0.0 soim.ro
-0.0.0.0 stireazilei.com
-0.0.0.0 stiri-extreme.ro
-0.0.0.0 stiriblana.pw
-0.0.0.0 stirinefiltrate.ro
-0.0.0.0 teinformam.ro
-0.0.0.0 us24.ro
-0.0.0.0 vremuritulburi.com
-0.0.0.0 yno.ro
-0.0.0.0 zer0sm0ke.com
-0.0.0.0 ziardecluj.ro
-0.0.0.0 ziaristionline.ro
-0.0.0.0 statulparalel.com
-0.0.0.0 evideo.live
-0.0.0.0 exclusiv24.ro
-0.0.0.0 psnews.ro
-0.0.0.0 stiride-calitate.pw
-0.0.0.0 stiripesurse.ro
-0.0.0.0 superclipuri.com
-0.0.0.0 video-bazar.eu
-0.0.0.0 acexedge.com
-0.0.0.0 adexce.net
-0.0.0.0 adidas-pairs.com
-0.0.0.0 casinospin365.com
-0.0.0.0 clickintoday.com
-0.0.0.0 codeonclick.com
-0.0.0.0 onclickmax.com
-0.0.0.0 searchincognito.com
-0.0.0.0 seness.info
-0.0.0.0 supaads.com
-0.0.0.0 sw1block.com
-0.0.0.0 tagdelivery.com
-0.0.0.0 traffanalysis.com
-0.0.0.0 traffic.myadsino.com
-0.0.0.0 wie9eig.top
-0.0.0.0 wwwpromoter.com
-0.0.0.0 lídl.eu
-0.0.0.0 activenews.ro
-0.0.0.0 vy4e3jw46l.com
-0.0.0.0 m4clicks.com
-0.0.0.0 ad.mox.tv
-0.0.0.0 ecoduri.com
-0.0.0.0 xzipy.com
+01.creativecdn.com
+ad.dc2.adtech.de
+ad2.ip.ro
+adnxs.com
+ads2.evz.ro
+adservice.google.ro
+adsymptotic.com
+advertising.oriel.io
+ak.sail-horizon.com
+akamai.smartadserver.com
+app.marketizator.com
+apps.thinkdigital.ro
+bat.bing.com
+bbcdn.ad2.ip.ro
+bbcdn.go.adevolution.bbelements.com
+bbcdn.go.cz.bbelements.com
+beacon.s-onetag.com
+bidder.criteo.com
+bidswitch.net
+block.sw1block.com
+bride.ru
+cdn.omniconvert.com
+cdn.onesignal.com
+cdn.raygun.io
+cdn.sendpulse.com
+cdn.taboola.com
+cdn.teads.tv
+cdnprojectagora.s3.amazonaws.com
+code3.adtlgc.com
+content.ad20.net
+content.adunity.com
+content.zontera.com
+core.ad20.net
+core.adservingfactory.com
+cotatii.tradeville.eu
+ctx.inin.ro
+da.feedsportal.com
+data.tradeville.eu
+digital4ro.adocean.pl
+engageya.com
+etop.ro
+evensys.ro$third-party
+ewatch.ro
+eyeviewads.com
+farm-ro.plista.com
+feedads.g.doubleclick.net
+files.upscore.com
+fx.gtop.ro
+get.s-onetag.com
+go.netbet.ro
+hit-pool.upscore.com
+ib.adnxs.com
+icorpadro.hit.gemius.pl
+ips-invite.iperceptions.com
+js-agent.newrelic.com
+linkweb.ro
+match.adsrvr.org
+match.taboola.com
+media.leftclick.ro
+moatads.com
+onlinesupaads.com
+p.brid.tv
+pagefair.com
+parsely.com
+pixel.mathtag.com
+prod.webpu.sh
+projectagoralibs.com
+projectagoratech.com
+psd.marketing
+realitatero.adocean.pl
+recs.engageya.com
+retargeting-data.eu
+revsci.net
+ro.adocean.pl
+ro.noprimetime.com
+ro.search.etargetnet.com
+rt.awstaticdn.net
+s.vi-serve.com
+sb.scorecardresearch.com
+scomcluster.cxense.com
+serving-sys.com
+smartadserver.com
+static.chartbeat.com
+static.criteo.net
+st-n.ads1-adnow.com
+st-n.pc1ads.com
+sync.teads.tv
+t00t2.com
+tags.bkrtx.com
+tags.crwdcntrl.net
+tinypass.com
+u.heatmap.it
+worldgravity.com
+zontera.com
+zopim.com
+squeakzinc.com
+polyfill.io
+ad.doubleclick.net
+paydemic.com
+coin-hive.com
+coinhive.com
+jsecoin.com
+reasedoper.pw
+mataharirama.xyz
+listat.biz
+lmodr.biz
+minecrunch.co
+2mdn.net
+7w.ro
+ado.icorp.ro
+adunity.com
+brand.ad
+gemius.pl
+omniconvert.com
+statcounter.com
+storage.icorp.ro
+taboola.com
+zm232.com
+adtlgc.com
+cxense.com
+criteo.net
+tynt.com
+crwdcntrl.net
+criteo.com
+doubleclick.net
+noadblock.org
+i401xox.com
+ads1-adnow.com
+ads2-adnow.com
+ads3-adnow.com
+tesseradigital.com
+qds.ninja
+xzipy.com
+2parale.ro
+2performant.com
+adexc.net
+admonitoring.bsgroup.ro
+adocean.pl
+ads.gadget.ro
+ads.tradeads.eu
+adservingfactory.com
+amazonaws.com
+bannersnack.com
+brat-online.ro
+chargeplatform.com
+evensys.ro
+flx1.com
+gravityrd-services.com
+megapopads.com
+new.cetrk.com
+profiling.avandor.com
+profiling1.avandor.com
+projectagora.s3.amazonaws.com
+s.atemda.com
+secure.trafic.ro
+st.ad.adnow.com
+storage.trafic.ro
+track.atom-data.io
+www4.smartadserver.com
+pwa.grgs.ro
+retargeting.biz
+hotjar.com
+awstaticdn.net
+cloudfront.net
+contestapp.a1.ro
+creativcdn.net
+kreativcdn.net
+magazinuldecase.ro
+3x.ro
+abrtn.pro
+activ-forte.com
+apps-web-store.net
+areafile.ro
+babyneeds.ro
+beautyandstylezone.com
+boilerinstant-ro.com
+branturi-slabit.ro
+camerawifi-ro.com
+campaignsender.ro
+certificateiso.ro
+cesiune.ro
+contemposhop.eu
+converse-all-star.ro
+converse-allstar.ro
+cremaminune.ro
+dolliholli.com
+dvdlovers.org
+ecobricolaj.ro
+enjoyyourmoves.com
+evrida.ro
+excellentfigure.com
+fashiontribes.ro
+fierastraieculant-ro.com
+foartetare.eu
+for-men-ultimate.com
+fstreet.eu
+fungushelparticle.com
+goagle.ro
+gogole.ro
+great4mylife.com
+groupoff.ro
+hemorrhoconsultation.com
+hi2.ro
+home-boutiqe.ro
+hostyfy.com
+hotelmercurminerva.ro
+iareduceri.eu
+idey.ro
+idunne.com
+indeeway.ro
+infolosultau.eu
+isp4free.info
+izzyreduceri.ro
+jocuricorporate.com
+justfitartstudio.ro
+kidstep.ro
+koseyagroup.com
+last-torrents.org
+lastfile.ro
+lastfiles.net
+lenjerii.org
+lenjeriipat-outlet.ro
+libertatea.info
+lipo53.ro
+magazinuldereduceri.eu
+mailagent.ro
+mareea.ro
+melimeloparis.ro
+menprotect.com
+merinodream-ro.com
+mesterproduse.eu
+modlet.ro
+myhealthyblog.co
+myhealthyblog.info
+nevergrey-ro.com
+new-b.ro
+ofertedevis.eu
+optimashop.ro
+outlet-rayban.ro
+panipromo.com
+parfumul.net
+peicipecolo.eu
+pentalog.ro
+presamedicala.com
+propantofi.eu
+racirecuceata-ro.com
+rbromania.com
+relatiidiscrete.ro
+roboutiqe.eu
+s77.ro
+sacividat.ro
+sanatatesifericire.eu
+scenefz.me
+scenefz.net
+seedfile.ro
+shoppingnewsletters.com
+silcosrl.eu
+silueta-perfecta.ro
+smdela.com
+softopt.eu
+spshop.eu
+stereomag.ro
+teleprod.eu
+thefile.ro
+tipsforhealthylegs.com
+torrentbits.net
+torrentsfile.com
+treburilecasei.eu
+trendymag.eu
+trimiteemail.info
+uiassan.com
+vacante2015.com
+vacante2016.eu
+vacantelastminute.info
+vendiup.com
+williams-sonona.com
+aflasitu.ro
+bursadecontabilitate.ro
+caplimpede.ro
+cocoon.ro
+criterii.ro
+cunoastelumea.ro
+cyd.ro
+dailynewsro.com
+danfil-jobs.com
+descrieri.ro
+dzr.org.ro
+efemeride.ro
+eufrosin.wordpress.com
+expunere.com
+fluierul.ro
+flux24.ro
+gandeste.org
+gramacontabilitate.ro
+impactpress.ro
+incorect.org
+infoAlert.ro
+lovendal.ro
+lupuldacicblogg.wordpress.com
+napocanews.ro
+nasul.ro
+nationalisti.ro
+nedreptate.net
+nuv.ro
+obiectiv.info
+odofresh.com
+oliviasteer.ro
+onlinereport.ro
+promarketmail.com
+recentnews.ro
+reporteronline.net
+ro.blastingnews.com
+searchnewsglobal.wordpress.com
+secretele.com
+social-media-romania.eu
+soim.ro
+stireazilei.com
+stiri-extreme.ro
+stiriblana.pw
+stirinefiltrate.ro
+teinformam.ro
+us24.ro
+vremuritulburi.com
+yno.ro
+zer0sm0ke.com
+ziardecluj.ro
+ziaristionline.ro
+statulparalel.com
+evideo.live
+exclusiv24.ro
+psnews.ro
+stiride-calitate.pw
+stiripesurse.ro
+superclipuri.com
+video-bazar.eu
+acexedge.com
+adexce.net
+adidas-pairs.com
+casinospin365.com
+clickintoday.com
+codeonclick.com
+onclickmax.com
+searchincognito.com
+seness.info
+supaads.com
+sw1block.com
+tagdelivery.com
+traffanalysis.com
+traffic.myadsino.com
+wie9eig.top
+wwwpromoter.com
+lídl.eu
+activenews.ro
+vy4e3jw46l.com
+m4clicks.com
+ad.mox.tv
+ecoduri.com
+xzipy.com
+www.01.creativecdn.com
+www.ad.dc2.adtech.de
+www.ad2.ip.ro
+www.adnxs.com
+www.ads2.evz.ro
+www.adservice.google.ro
+www.adsymptotic.com
+www.advertising.oriel.io
+www.ak.sail-horizon.com
+www.akamai.smartadserver.com
+www.app.marketizator.com
+www.apps.thinkdigital.ro
+www.bat.bing.com
+www.bbcdn.ad2.ip.ro
+www.bbcdn.go.adevolution.bbelements.com
+www.bbcdn.go.cz.bbelements.com
+www.beacon.s-onetag.com
+www.bidder.criteo.com
+www.bidswitch.net
+www.block.sw1block.com
+www.bride.ru
+www.cdn.omniconvert.com
+www.cdn.onesignal.com
+www.cdn.raygun.io
+www.cdn.sendpulse.com
+www.cdn.taboola.com
+www.cdn.teads.tv
+www.cdnprojectagora.s3.amazonaws.com
+www.code3.adtlgc.com
+www.content.ad20.net
+www.content.adunity.com
+www.content.zontera.com
+www.core.ad20.net
+www.core.adservingfactory.com
+www.cotatii.tradeville.eu
+www.ctx.inin.ro
+www.da.feedsportal.com
+www.data.tradeville.eu
+www.digital4ro.adocean.pl
+www.engageya.com
+www.etop.ro
+www.evensys.ro$third-party
+www.ewatch.ro
+www.eyeviewads.com
+www.farm-ro.plista.com
+www.feedads.g.doubleclick.net
+www.files.upscore.com
+www.fx.gtop.ro
+www.get.s-onetag.com
+www.go.netbet.ro
+www.hit-pool.upscore.com
+www.ib.adnxs.com
+www.icorpadro.hit.gemius.pl
+www.ips-invite.iperceptions.com
+www.js-agent.newrelic.com
+www.linkweb.ro
+www.match.adsrvr.org
+www.match.taboola.com
+www.media.leftclick.ro
+www.moatads.com
+www.onlinesupaads.com
+www.p.brid.tv
+www.pagefair.com
+www.parsely.com
+www.pixel.mathtag.com
+www.prod.webpu.sh
+www.projectagoralibs.com
+www.projectagoratech.com
+www.psd.marketing
+www.realitatero.adocean.pl
+www.recs.engageya.com
+www.retargeting-data.eu
+www.revsci.net
+www.ro.adocean.pl
+www.ro.noprimetime.com
+www.ro.search.etargetnet.com
+www.rt.awstaticdn.net
+www.s.vi-serve.com
+www.sb.scorecardresearch.com
+www.scomcluster.cxense.com
+www.serving-sys.com
+www.smartadserver.com
+www.static.chartbeat.com
+www.static.criteo.net
+www.st-n.ads1-adnow.com
+www.st-n.pc1ads.com
+www.sync.teads.tv
+www.t00t2.com
+www.tags.bkrtx.com
+www.tags.crwdcntrl.net
+www.tinypass.com
+www.u.heatmap.it
+www.worldgravity.com
+www.zontera.com
+www.zopim.com
+www.squeakzinc.com
+www.polyfill.io
+www.ad.doubleclick.net
+www.paydemic.com
+www.coin-hive.com
+www.coinhive.com
+www.jsecoin.com
+www.reasedoper.pw
+www.mataharirama.xyz
+www.listat.biz
+www.lmodr.biz
+www.minecrunch.co
+www.2mdn.net
+www.7w.ro
+www.ado.icorp.ro
+www.adunity.com
+www.brand.ad
+www.gemius.pl
+www.omniconvert.com
+www.statcounter.com
+www.storage.icorp.ro
+www.taboola.com
+www.zm232.com
+www.adtlgc.com
+www.cxense.com
+www.criteo.net
+www.tynt.com
+www.crwdcntrl.net
+www.criteo.com
+www.doubleclick.net
+www.noadblock.org
+www.i401xox.com
+www.ads1-adnow.com
+www.ads2-adnow.com
+www.ads3-adnow.com
+www.tesseradigital.com
+www.qds.ninja
+www.xzipy.com
+www.2parale.ro
+www.2performant.com
+www.adexc.net
+www.admonitoring.bsgroup.ro
+www.adocean.pl
+www.ads.gadget.ro
+www.ads.tradeads.eu
+www.adservingfactory.com
+www.amazonaws.com
+www.bannersnack.com
+www.brat-online.ro
+www.chargeplatform.com
+www.evensys.ro
+www.flx1.com
+www.gravityrd-services.com
+www.megapopads.com
+www.new.cetrk.com
+www.profiling.avandor.com
+www.profiling1.avandor.com
+www.projectagora.s3.amazonaws.com
+www.s.atemda.com
+www.secure.trafic.ro
+www.st.ad.adnow.com
+www.storage.trafic.ro
+www.track.atom-data.io
+www.www4.smartadserver.com
+www.pwa.grgs.ro
+www.retargeting.biz
+www.hotjar.com
+www.awstaticdn.net
+www.cloudfront.net
+www.contestapp.a1.ro
+www.creativcdn.net
+www.kreativcdn.net
+www.magazinuldecase.ro
+www.3x.ro
+www.abrtn.pro
+www.activ-forte.com
+www.apps-web-store.net
+www.areafile.ro
+www.babyneeds.ro
+www.beautyandstylezone.com
+www.boilerinstant-ro.com
+www.branturi-slabit.ro
+www.camerawifi-ro.com
+www.campaignsender.ro
+www.certificateiso.ro
+www.cesiune.ro
+www.contemposhop.eu
+www.converse-all-star.ro
+www.converse-allstar.ro
+www.cremaminune.ro
+www.dolliholli.com
+www.dvdlovers.org
+www.ecobricolaj.ro
+www.enjoyyourmoves.com
+www.evrida.ro
+www.excellentfigure.com
+www.fashiontribes.ro
+www.fierastraieculant-ro.com
+www.foartetare.eu
+www.for-men-ultimate.com
+www.fstreet.eu
+www.fungushelparticle.com
+www.goagle.ro
+www.gogole.ro
+www.great4mylife.com
+www.groupoff.ro
+www.hemorrhoconsultation.com
+www.hi2.ro
+www.home-boutiqe.ro
+www.hostyfy.com
+www.hotelmercurminerva.ro
+www.iareduceri.eu
+www.idey.ro
+www.idunne.com
+www.indeeway.ro
+www.infolosultau.eu
+www.isp4free.info
+www.izzyreduceri.ro
+www.jocuricorporate.com
+www.justfitartstudio.ro
+www.kidstep.ro
+www.koseyagroup.com
+www.last-torrents.org
+www.lastfile.ro
+www.lastfiles.net
+www.lenjerii.org
+www.lenjeriipat-outlet.ro
+www.libertatea.info
+www.lipo53.ro
+www.magazinuldereduceri.eu
+www.mailagent.ro
+www.mareea.ro
+www.melimeloparis.ro
+www.menprotect.com
+www.merinodream-ro.com
+www.mesterproduse.eu
+www.modlet.ro
+www.myhealthyblog.co
+www.myhealthyblog.info
+www.nevergrey-ro.com
+www.new-b.ro
+www.ofertedevis.eu
+www.optimashop.ro
+www.outlet-rayban.ro
+www.panipromo.com
+www.parfumul.net
+www.peicipecolo.eu
+www.pentalog.ro
+www.presamedicala.com
+www.propantofi.eu
+www.racirecuceata-ro.com
+www.rbromania.com
+www.relatiidiscrete.ro
+www.roboutiqe.eu
+www.s77.ro
+www.sacividat.ro
+www.sanatatesifericire.eu
+www.scenefz.me
+www.scenefz.net
+www.seedfile.ro
+www.shoppingnewsletters.com
+www.silcosrl.eu
+www.silueta-perfecta.ro
+www.smdela.com
+www.softopt.eu
+www.spshop.eu
+www.stereomag.ro
+www.teleprod.eu
+www.thefile.ro
+www.tipsforhealthylegs.com
+www.torrentbits.net
+www.torrentsfile.com
+www.treburilecasei.eu
+www.trendymag.eu
+www.trimiteemail.info
+www.uiassan.com
+www.vacante2015.com
+www.vacante2016.eu
+www.vacantelastminute.info
+www.vendiup.com
+www.williams-sonona.com
+www.aflasitu.ro
+www.bursadecontabilitate.ro
+www.caplimpede.ro
+www.cocoon.ro
+www.criterii.ro
+www.cunoastelumea.ro
+www.cyd.ro
+www.dailynewsro.com
+www.danfil-jobs.com
+www.descrieri.ro
+www.dzr.org.ro
+www.efemeride.ro
+www.eufrosin.wordpress.com
+www.expunere.com
+www.fluierul.ro
+www.flux24.ro
+www.gandeste.org
+www.gramacontabilitate.ro
+www.impactpress.ro
+www.incorect.org
+www.infoAlert.ro
+www.lovendal.ro
+www.lupuldacicblogg.wordpress.com
+www.napocanews.ro
+www.nasul.ro
+www.nationalisti.ro
+www.nedreptate.net
+www.nuv.ro
+www.obiectiv.info
+www.odofresh.com
+www.oliviasteer.ro
+www.onlinereport.ro
+www.promarketmail.com
+www.recentnews.ro
+www.reporteronline.net
+www.ro.blastingnews.com
+www.searchnewsglobal.wordpress.com
+www.secretele.com
+www.social-media-romania.eu
+www.soim.ro
+www.stireazilei.com
+www.stiri-extreme.ro
+www.stiriblana.pw
+www.stirinefiltrate.ro
+www.teinformam.ro
+www.us24.ro
+www.vremuritulburi.com
+www.yno.ro
+www.zer0sm0ke.com
+www.ziardecluj.ro
+www.ziaristionline.ro
+www.statulparalel.com
+www.evideo.live
+www.exclusiv24.ro
+www.psnews.ro
+www.stiride-calitate.pw
+www.stiripesurse.ro
+www.superclipuri.com
+www.video-bazar.eu
+www.acexedge.com
+www.adexce.net
+www.adidas-pairs.com
+www.casinospin365.com
+www.clickintoday.com
+www.codeonclick.com
+www.onclickmax.com
+www.searchincognito.com
+www.seness.info
+www.supaads.com
+www.sw1block.com
+www.tagdelivery.com
+www.traffanalysis.com
+www.traffic.myadsino.com
+www.wie9eig.top
+www.wwwpromoter.com
+www.lídl.eu
+www.activenews.ro
+www.vy4e3jw46l.com
+www.m4clicks.com
+www.ad.mox.tv
+www.ecoduri.com
+www.xzipy.com
