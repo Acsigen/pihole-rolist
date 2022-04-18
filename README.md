@@ -6,7 +6,7 @@ Romanian host list for Pi-Hole.
 
 - The `hosts` file is a merged collection of hosts from zoso.ro and adblock.ro uBlock lists.
 - The `deceptive-content` file blocks sites that are considered to spread fake news or have spam like content / click bait news titles.
-  - **April 2022 Update**: Added [DNSC](dnsc.ro) banned domains related to Russian - Ucranian crisis
+  - **April 2022 Update**: Added [DNSC](https://dnsc.ro/vezi/document/situatie-site-uri-cu-activitate-in-contextul-crizei-ucraina-rusia-plus-adrese-ip-specifice-utilizate-in-atacuri-malware) banned domains related to Russian - Ucranian crisis
 
 ## How to use it
 
