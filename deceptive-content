@@ -2,7 +2,7 @@
 #
 # This hosts file is a merged collection of hosts from adblock.ro uBlock full list
 #
-# Date: 16 September 2021 16:42:00 (EEST)
+# Date: 18 April 2022 22:48:00 (EEST)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Acsigen/pihole-rolist/main/deceptive-content
 # Project home page: https://github.com/Acsigen/pihole-rolist
@@ -127,3 +127,56 @@ www.yno.ro
 www.zer0sm0ke.com
 www.ziardecluj.ro
 www.ziaristionline.ro
+
+# Lista site-uri fake news, fraude si / sau atacuri in contextul crizei Ucraina - Rusia
+# Sursa: https://dnsc.ro/vezi/document/situatie-site-uri-cu-activitate-in-contextul-crizei-ucraina-rusia-plus-adrese-ip-specifice-utilizate-in-atacuri-malware
+russian.rt.com
+rt.com
+bookblog.ro
+doilupi.ro
+enterieur.ro
+francais.rt.com
+popup.taboola.com
+rt-news.gcm.firebaseio.com
+push.dev.rt.com
+radiort.rttv.ru
+de.rt.com
+arabic.rt.com
+actualidad.rt.com
+doc.rt.com
+sputnik-a5afd.firebaseio.com
+a.sputniknews.com
+rian.ru
+mobileapi.sputniknews.com
+mobilehit.ria.ru
+mfd.rian.ru
+postal-romania.com
+yourincome.site
+newsmoney.work
+citestesitu.com
+cloudx.ro
+www.russian.rt.com
+www.rt.com
+www.bookblog.ro
+www.doilupi.ro
+www.enterieur.ro
+www.francais.rt.com
+www.popup.taboola.com
+www.rt-news.gcm.firebaseio.com
+www.push.dev.rt.com
+www.radiort.rttv.ru
+www.de.rt.com
+www.arabic.rt.com
+www.actualidad.rt.com
+www.doc.rt.com
+www.sputnik-a5afd.firebaseio.com
+www.a.sputniknews.com
+www.rian.ru
+www.mobileapi.sputniknews.com
+www.mobilehit.ria.ru
+www.mfd.rian.ru
+www.postal-romania.com
+www.yourincome.site
+www.newsmoney.work
+www.citestesitu.com
+www.cloudx.ro
