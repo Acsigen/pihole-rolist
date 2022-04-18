@@ -2,23 +2,27 @@
 #
 # This hosts file is a merged collection of hosts from zoso.ro and adblock.ro uBlock lists
 #
-# Date: 16 September 2021 16:42:00 (EEST)
+# Date: 18 April 2022 22:34:00 (EEST)
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Acsigen/pihole-rolist/main/hosts
 # Project home page: https://github.com/Acsigen/pihole-rolist
 
 01.creativecdn.com
 2mdn.net
+2parale.ro
+2performant.com
 7w.ro
 ad.dc2.adtech.de
 ad.doubleclick.net
 ad.mox.tv
 ad2.ip.ro
+adexc.net
 adform.net
 admonitoring.bsgroup.ro
 adnxs.com
 ado.icorp.ro
 adocean.pl
+ads.gadget.ro
 ads.tradeads.eu
 ads1-adnow.com
 ads2-adnow.com
@@ -35,6 +39,7 @@ akamai.smartadserver.com
 app.marketizator.com
 apps.thinkdigital.ro
 arbocontext.ro
+bannersnack.com
 bat.bing.com
 bbcdn.ad2.ip.ro
 bbcdn.go.adevolution.bbelements.com
@@ -53,6 +58,7 @@ cdn.sendpulse.com
 cdn.taboola.com
 cdn.teads.tv
 cdnprojectagora.s3.amazonaws.com
+chargeplatform.com
 code3.adtlgc.com
 coin-hive.com
 coinhive.com
@@ -71,10 +77,11 @@ da.feedsportal.com
 data.tradeville.eu
 digital4ro.adocean.pl
 doubleclick.net
+e-day.ro
 einformatii.ro
 engageya.com
 etop.ro
-evensys.rothird-party
+evensys.ro
 ewatch.ro
 eyeviewads.com
 farm-ro.plista.com
@@ -85,7 +92,9 @@ fx.gtop.ro
 gemius.pl
 get.s-onetag.com
 go.netbet.ro
+gravityrd-services.com
 hit-pool.upscore.com
+hotjar.com
 i401xox.com
 ib.adnxs.com
 icorpadro.hit.gemius.pl
@@ -93,6 +102,7 @@ img.2parale.ro
 ips-invite.iperceptions.com
 js-agent.newrelic.com
 jsecoin.com
+l.profitshare.ro
 linkweb.ro
 listat.biz
 lmodr.biz
@@ -116,15 +126,20 @@ pixel.mathtag.com
 polyfill.io
 prod.webpu.sh
 profiling.avandor.com
+profiling1.avandor.com
+profitshare.emag.ro
+profitshare.ro
 projectagora.s3.amazonaws.com
 projectagoralibs.com
 projectagoratech.com
 psd.marketing
+pwa.grgs.ro
 qds.ninja
 realitatero.adocean.pl
 reasedoper.pw
 recs.engageya.com
 retargeting-data.eu
+retargeting.biz
 revsci.net
 ro.adocean.pl
 ro.noprimetime.com
@@ -134,8 +149,10 @@ s.atemda.com
 s.vi-serve.com
 sb.scorecardresearch.com
 scomcluster.cxense.com
+secure.trafic.ro
 serving-sys.com
 smartadserver.com
+smartdreamers.realitate.ro
 smartdreamers.ro
 squeakzinc.com
 st-n.ads1-adnow.com
@@ -154,24 +171,30 @@ tags.bkrtx.com
 tags.crwdcntrl.net
 tesseradigital.com
 tinypass.com
+track.atom-data.io
 tynt.com
 u.heatmap.it
 worldgravity.com
+www4.smartadserver.com
 zm232.com
 zontera.com
 zopim.com
 www.01.creativecdn.com
 www.2mdn.net
+www.2parale.ro
+www.2performant.com
 www.7w.ro
 www.ad.dc2.adtech.de
 www.ad.doubleclick.net
 www.ad.mox.tv
 www.ad2.ip.ro
+www.adexc.net
 www.adform.net
 www.admonitoring.bsgroup.ro
 www.adnxs.com
 www.ado.icorp.ro
 www.adocean.pl
+www.ads.gadget.ro
 www.ads.tradeads.eu
 www.ads1-adnow.com
 www.ads2-adnow.com
@@ -188,6 +211,7 @@ www.akamai.smartadserver.com
 www.app.marketizator.com
 www.apps.thinkdigital.ro
 www.arbocontext.ro
+www.bannersnack.com
 www.bat.bing.com
 www.bbcdn.ad2.ip.ro
 www.bbcdn.go.adevolution.bbelements.com
@@ -206,6 +230,7 @@ www.cdn.sendpulse.com
 www.cdn.taboola.com
 www.cdn.teads.tv
 www.cdnprojectagora.s3.amazonaws.com
+www.chargeplatform.com
 www.code3.adtlgc.com
 www.coin-hive.com
 www.coinhive.com
@@ -224,10 +249,11 @@ www.da.feedsportal.com
 www.data.tradeville.eu
 www.digital4ro.adocean.pl
 www.doubleclick.net
+www.e-day.ro
 www.einformatii.ro
 www.engageya.com
 www.etop.ro
-www.evensys.rothird-party
+www.evensys.ro
 www.ewatch.ro
 www.eyeviewads.com
 www.farm-ro.plista.com
@@ -238,7 +264,9 @@ www.fx.gtop.ro
 www.gemius.pl
 www.get.s-onetag.com
 www.go.netbet.ro
+www.gravityrd-services.com
 www.hit-pool.upscore.com
+www.hotjar.com
 www.i401xox.com
 www.ib.adnxs.com
 www.icorpadro.hit.gemius.pl
@@ -246,6 +274,7 @@ www.img.2parale.ro
 www.ips-invite.iperceptions.com
 www.js-agent.newrelic.com
 www.jsecoin.com
+www.l.profitshare.ro
 www.linkweb.ro
 www.listat.biz
 www.lmodr.biz
@@ -269,15 +298,20 @@ www.pixel.mathtag.com
 www.polyfill.io
 www.prod.webpu.sh
 www.profiling.avandor.com
+www.profiling1.avandor.com
+www.profitshare.emag.ro
+www.profitshare.ro
 www.projectagora.s3.amazonaws.com
 www.projectagoralibs.com
 www.projectagoratech.com
 www.psd.marketing
+www.pwa.grgs.ro
 www.qds.ninja
 www.realitatero.adocean.pl
 www.reasedoper.pw
 www.recs.engageya.com
 www.retargeting-data.eu
+www.retargeting.biz
 www.revsci.net
 www.ro.adocean.pl
 www.ro.noprimetime.com
@@ -287,8 +321,10 @@ www.s.atemda.com
 www.s.vi-serve.com
 www.sb.scorecardresearch.com
 www.scomcluster.cxense.com
+www.secure.trafic.ro
 www.serving-sys.com
 www.smartadserver.com
+www.smartdreamers.realitate.ro
 www.smartdreamers.ro
 www.squeakzinc.com
 www.st-n.ads1-adnow.com
@@ -307,9 +343,11 @@ www.tags.bkrtx.com
 www.tags.crwdcntrl.net
 www.tesseradigital.com
 www.tinypass.com
+www.track.atom-data.io
 www.tynt.com
 www.u.heatmap.it
 www.worldgravity.com
+www.www4.smartadserver.com
 www.zm232.com
 www.zontera.com
 www.zopim.com
